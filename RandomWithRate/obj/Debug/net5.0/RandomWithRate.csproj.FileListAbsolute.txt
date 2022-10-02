@@ -1,0 +1,16 @@
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\bin\Debug\net5.0\RandomWithRate.exe
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\bin\Debug\net5.0\RandomWithRate.deps.json
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\bin\Debug\net5.0\RandomWithRate.runtimeconfig.json
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\bin\Debug\net5.0\RandomWithRate.runtimeconfig.dev.json
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\bin\Debug\net5.0\RandomWithRate.dll
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\bin\Debug\net5.0\ref\RandomWithRate.dll
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\bin\Debug\net5.0\RandomWithRate.pdb
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\RandomWithRate.csproj.AssemblyReference.cache
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\RandomWithRate.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\RandomWithRate.AssemblyInfoInputs.cache
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\RandomWithRate.AssemblyInfo.cs
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\RandomWithRate.csproj.CoreCompileInputs.cache
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\RandomWithRate.dll
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\ref\RandomWithRate.dll
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\RandomWithRate.pdb
+D:\MyWorkSpace\Nghịch's Ngu\RandomWithRate\RandomWithRate\obj\Debug\net5.0\RandomWithRate.genruntimeconfig.cache
